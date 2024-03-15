@@ -1,5 +1,4 @@
 # Recipe-Organizer-COD4347
-Certainly! Let's organize the provided details into the requested format:
 
  1. Title: CODTECH IT SOLUTIONS Intern - Task Submission - Recipe Organizer
 
